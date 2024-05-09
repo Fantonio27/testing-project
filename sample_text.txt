@@ -1,8 +1,2 @@
 Hello World!
 
-Lorem Ipsum
-Lorem Ipsum
-Lorem Ipsum
-Lorem Ipsum
-
-Lorem Ipsum
